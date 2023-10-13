@@ -1,0 +1,15 @@
+C:\Users\Анастасия\Desktop\компьютерный практикум\obj\Debug\net7.0\компьютерный практикум.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\компьютерный практикум\obj\Debug\net7.0\компьютерный практикум.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Desktop\компьютерный практикум\obj\Debug\net7.0\компьютерный практикум.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\компьютерный практикум\obj\Debug\net7.0\компьютерный практикум.AssemblyInfo.cs
+C:\Users\Анастасия\Desktop\компьютерный практикум\obj\Debug\net7.0\компьютерный практикум.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\компьютерный практикум\bin\Debug\net7.0\компьютерный практикум.exe
+C:\Users\Анастасия\Desktop\компьютерный практикум\bin\Debug\net7.0\компьютерный практикум.deps.json
+C:\Users\Анастасия\Desktop\компьютерный практикум\bin\Debug\net7.0\компьютерный практикум.runtimeconfig.json
+C:\Users\Анастасия\Desktop\компьютерный практикум\bin\Debug\net7.0\компьютерный практикум.dll
+C:\Users\Анастасия\Desktop\компьютерный практикум\bin\Debug\net7.0\компьютерный практикум.pdb
+C:\Users\Анастасия\Desktop\компьютерный практикум\obj\Debug\net7.0\компьютерный практикум.dll
+C:\Users\Анастасия\Desktop\компьютерный практикум\obj\Debug\net7.0\refint\компьютерный практикум.dll
+C:\Users\Анастасия\Desktop\компьютерный практикум\obj\Debug\net7.0\компьютерный практикум.pdb
+C:\Users\Анастасия\Desktop\компьютерный практикум\obj\Debug\net7.0\компьютерный практикум.genruntimeconfig.cache
+C:\Users\Анастасия\Desktop\компьютерный практикум\obj\Debug\net7.0\ref\компьютерный практикум.dll
